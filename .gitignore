@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Audio files (too large)
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+
+# Images (analysis outputs)
+*.png
+
+# Misc
+.DS_Store
+*.log

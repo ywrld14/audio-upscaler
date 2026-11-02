@@ -1,0 +1,9 @@
+numpy
+scipy
+soundfile
+matplotlib
+gradio
+demucs-mlx
+pedalboard
+pyloudnorm
+ac3forge
